@@ -1,0 +1,217 @@
+PODS:
+  - applovin_max (4.0.2):
+    - AppLovinSDK (= 13.0.0)
+    - Flutter
+  - AppLovinMediationFacebookAdapter (6.15.2.1):
+    - AppLovinSDK (>= 13.0.0)
+    - FBAudienceNetwork (= 6.15.2)
+  - AppLovinMediationFyberAdapter (8.3.2.1):
+    - AppLovinSDK (>= 13.0.0)
+    - Fyber_Marketplace_SDK (= 8.3.2)
+  - AppLovinMediationGoogleAdapter (11.11.0.0):
+    - AppLovinSDK (>= 13.0.0)
+    - Google-Mobile-Ads-SDK (= 11.11.0)
+  - AppLovinMediationGoogleAdManagerAdapter (11.11.0.0):
+    - AppLovinSDK (>= 13.0.0)
+    - Google-Mobile-Ads-SDK (= 11.11.0)
+  - AppLovinMediationInMobiAdapter (10.7.8.0):
+    - AppLovinSDK (>= 13.0.0)
+    - InMobiSDK (= 10.7.8)
+  - AppLovinMediationIronSourceAdapter (8.4.0.0.0):
+    - AppLovinSDK (>= 13.0.0)
+    - IronSourceSDK (= 8.4.0.0)
+  - AppLovinMediationMintegralAdapter (7.7.3.0.0):
+    - AppLovinSDK (>= 13.0.0)
+    - MintegralAdSDK (= 7.7.3)
+    - MintegralAdSDK/BidSplashAd (= 7.7.3)
+  - AppLovinMediationMobileFuseAdapter (1.8.0.1):
+    - AppLovinSDK (>= 13.0.0)
+    - MobileFuseSDK (= 1.8.0)
+  - AppLovinMediationSmaatoAdapter (22.9.1.0):
+    - AppLovinSDK (>= 13.0.0)
+    - smaato-ios-sdk (= 22.9.1)
+    - smaato-ios-sdk/InApp (= 22.9.1)
+  - AppLovinMediationUnityAdsAdapter (4.12.4.0):
+    - AppLovinSDK (>= 13.0.0)
+    - UnityAds (= 4.12.4)
+  - AppLovinMediationVungleAdapter (7.4.2.0):
+    - AppLovinSDK (>= 13.0.0)
+    - VungleAds (= 7.4.2)
+  - AppLovinSDK (13.0.0)
+  - FBAudienceNetwork (6.15.2)
+  - Flutter (1.0.0)
+  - Fyber_Marketplace_SDK (8.3.2)
+  - Google-Mobile-Ads-SDK (11.11.0):
+    - GoogleUserMessagingPlatform (>= 1.1)
+  - GoogleUserMessagingPlatform (2.7.0)
+  - InMobiSDK (10.7.8)
+  - IronSourceSDK (8.4.0.0)
+  - MintegralAdSDK (7.7.3):
+    - MintegralAdSDK/BannerAd (= 7.7.3)
+    - MintegralAdSDK/BidBannerAd (= 7.7.3)
+    - MintegralAdSDK/BidInterstitialVideoAd (= 7.7.3)
+    - MintegralAdSDK/BidNativeAd (= 7.7.3)
+    - MintegralAdSDK/BidNewInterstitialAd (= 7.7.3)
+    - MintegralAdSDK/BidRewardVideoAd (= 7.7.3)
+    - MintegralAdSDK/InterstitialVideoAd (= 7.7.3)
+    - MintegralAdSDK/NativeAd (= 7.7.3)
+    - MintegralAdSDK/NewInterstitialAd (= 7.7.3)
+    - MintegralAdSDK/RewardVideoAd (= 7.7.3)
+  - MintegralAdSDK/BannerAd (7.7.3):
+    - MintegralAdSDK/NativeAd
+  - MintegralAdSDK/BidBannerAd (7.7.3):
+    - MintegralAdSDK/BannerAd
+    - MintegralAdSDK/BidNativeAd
+  - MintegralAdSDK/BidInterstitialVideoAd (7.7.3):
+    - MintegralAdSDK/BidNativeAd
+    - MintegralAdSDK/InterstitialVideoAd
+  - MintegralAdSDK/BidNativeAd (7.7.3):
+    - MintegralAdSDK/NativeAd
+  - MintegralAdSDK/BidNewInterstitialAd (7.7.3):
+    - MintegralAdSDK/BidNativeAd
+    - MintegralAdSDK/NewInterstitialAd
+  - MintegralAdSDK/BidRewardVideoAd (7.7.3):
+    - MintegralAdSDK/BidNativeAd
+    - MintegralAdSDK/RewardVideoAd
+  - MintegralAdSDK/BidSplashAd (7.7.3):
+    - MintegralAdSDK/BidNativeAd
+    - MintegralAdSDK/SplashAd
+  - MintegralAdSDK/InterstitialVideoAd (7.7.3):
+    - MintegralAdSDK/NativeAd
+  - MintegralAdSDK/NativeAd (7.7.3)
+  - MintegralAdSDK/NewInterstitialAd (7.7.3):
+    - MintegralAdSDK/InterstitialVideoAd
+    - MintegralAdSDK/NativeAd
+  - MintegralAdSDK/RewardVideoAd (7.7.3):
+    - MintegralAdSDK/NativeAd
+  - MintegralAdSDK/SplashAd (7.7.3):
+    - MintegralAdSDK/NativeAd
+  - MobileFuseSDK (1.8.0)
+  - smaato-ios-sdk (22.9.1):
+    - smaato-ios-sdk/Full (= 22.9.1)
+  - smaato-ios-sdk/Banner (22.9.1):
+    - smaato-ios-sdk/Modules/Banner
+    - smaato-ios-sdk/Modules/Core
+    - smaato-ios-sdk/Modules/RichMedia
+  - smaato-ios-sdk/Full (22.9.1):
+    - smaato-ios-sdk/Banner
+    - smaato-ios-sdk/Interstitial
+    - smaato-ios-sdk/Native
+    - smaato-ios-sdk/Outstream
+    - smaato-ios-sdk/RewardedAds
+  - smaato-ios-sdk/InApp (22.9.1):
+    - smaato-ios-sdk/Modules/Core
+  - smaato-ios-sdk/Interstitial (22.9.1):
+    - smaato-ios-sdk/Modules/Interstitial
+    - smaato-ios-sdk/Modules/RichMedia
+    - smaato-ios-sdk/Modules/Video
+  - smaato-ios-sdk/Modules/Banner (22.9.1):
+    - smaato-ios-sdk/Modules/Core
+  - smaato-ios-sdk/Modules/Core (22.9.1)
+  - smaato-ios-sdk/Modules/Interstitial (22.9.1):
+    - smaato-ios-sdk/Modules/Core
+  - smaato-ios-sdk/Modules/Native (22.9.1):
+    - smaato-ios-sdk/Modules/Core
+  - smaato-ios-sdk/Modules/OpenMeasurement (22.9.1):
+    - smaato-ios-sdk/Modules/Core
+  - smaato-ios-sdk/Modules/Outstream (22.9.1):
+    - smaato-ios-sdk/Modules/Banner
+    - smaato-ios-sdk/Modules/Core
+    - smaato-ios-sdk/Modules/RichMedia
+  - smaato-ios-sdk/Modules/RewardedAds (22.9.1):
+    - smaato-ios-sdk/Modules/Core
+  - smaato-ios-sdk/Modules/RichMedia (22.9.1):
+    - smaato-ios-sdk/Modules/Core
+    - smaato-ios-sdk/Modules/OpenMeasurement
+  - smaato-ios-sdk/Modules/Video (22.9.1):
+    - smaato-ios-sdk/Modules/Core
+    - smaato-ios-sdk/Modules/OpenMeasurement
+  - smaato-ios-sdk/Native (22.9.1):
+    - smaato-ios-sdk/Modules/Core
+    - smaato-ios-sdk/Modules/Native
+  - smaato-ios-sdk/Outstream (22.9.1):
+    - smaato-ios-sdk/Modules/Outstream
+  - smaato-ios-sdk/RewardedAds (22.9.1):
+    - smaato-ios-sdk/Modules/RewardedAds
+    - smaato-ios-sdk/Modules/Video
+  - UnityAds (4.12.4)
+  - VungleAds (7.4.2)
+
+DEPENDENCIES:
+  - applovin_max (from `.symlinks/plugins/applovin_max/ios`)
+  - AppLovinMediationFacebookAdapter (= 6.15.2.1)
+  - AppLovinMediationFyberAdapter (= 8.3.2.1)
+  - AppLovinMediationGoogleAdapter (= 11.11.0.0)
+  - AppLovinMediationGoogleAdManagerAdapter (= 11.11.0.0)
+  - AppLovinMediationInMobiAdapter (= 10.7.8.0)
+  - AppLovinMediationIronSourceAdapter (= 8.4.0.0.0)
+  - AppLovinMediationMintegralAdapter (= 7.7.3.0.0)
+  - AppLovinMediationMobileFuseAdapter (= 1.8.0.1)
+  - AppLovinMediationSmaatoAdapter (= 22.9.1.0)
+  - AppLovinMediationUnityAdsAdapter (= 4.12.4.0)
+  - AppLovinMediationVungleAdapter (= 7.4.2.0)
+  - AppLovinSDK (= 13.0.0)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - AppLovinMediationFacebookAdapter
+    - AppLovinMediationFyberAdapter
+    - AppLovinMediationGoogleAdapter
+    - AppLovinMediationGoogleAdManagerAdapter
+    - AppLovinMediationInMobiAdapter
+    - AppLovinMediationIronSourceAdapter
+    - AppLovinMediationMintegralAdapter
+    - AppLovinMediationMobileFuseAdapter
+    - AppLovinMediationSmaatoAdapter
+    - AppLovinMediationUnityAdsAdapter
+    - AppLovinMediationVungleAdapter
+    - AppLovinSDK
+    - FBAudienceNetwork
+    - Fyber_Marketplace_SDK
+    - Google-Mobile-Ads-SDK
+    - GoogleUserMessagingPlatform
+    - InMobiSDK
+    - IronSourceSDK
+    - MintegralAdSDK
+    - MobileFuseSDK
+    - smaato-ios-sdk
+    - UnityAds
+    - VungleAds
+
+EXTERNAL SOURCES:
+  applovin_max:
+    :path: ".symlinks/plugins/applovin_max/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  applovin_max: 47768a4f481a77c6253e405ea51dc426d9e973ed
+  AppLovinMediationFacebookAdapter: a569c3015e24b5e00049a46bb344ba00894b3541
+  AppLovinMediationFyberAdapter: 5fa1488a43fd8359f028a07f4fbf091835eee8ba
+  AppLovinMediationGoogleAdapter: a40f301fda2e26efa96ec754d4f85fcaca56de73
+  AppLovinMediationGoogleAdManagerAdapter: 55bcbe384bbef1f4109350a860d6a3fb92526664
+  AppLovinMediationInMobiAdapter: e21ac5d93bec66d8b03f5d914190078e66368540
+  AppLovinMediationIronSourceAdapter: 780e901f72f69bade8e53a645a9c07bb220a8f01
+  AppLovinMediationMintegralAdapter: 97d210078a2de1d2f5c922346010ab844e046271
+  AppLovinMediationMobileFuseAdapter: df697ec34647935e15331d150a497f7dcb744d89
+  AppLovinMediationSmaatoAdapter: 0aa8426ec9114adf9886dd1d3347049afcf4ce3a
+  AppLovinMediationUnityAdsAdapter: d3d2c0def05e24d9d00119ced77dc0813cc40f34
+  AppLovinMediationVungleAdapter: ae90969e09a9d69dced0b56f2f0dee9e7a958b03
+  AppLovinSDK: c0ecb434df24008b6ecdd7f1e5b8587bc45ff381
+  FBAudienceNetwork: 2457a89b45e2596241fd81b0c2fd8cb6f6053869
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  Fyber_Marketplace_SDK: 215c2020efd507c0e97f40871e96a26918f8986e
+  Google-Mobile-Ads-SDK: 6d2fc31d83b7b13a7dee3d622f1538fa3324958a
+  GoogleUserMessagingPlatform: a8b56893477f67212fbc8411c139e61d463349f5
+  InMobiSDK: ee53561ba1fd21787b1eb82f02da9b93067ffc8e
+  IronSourceSDK: 557a0edad39c2a48a225af07b491c672ca5acd36
+  MintegralAdSDK: 217cca20529055c8791c82985dd7a74864e49fd0
+  MobileFuseSDK: 4dae8f266ac60d346e8b2f526b1871844d6d8128
+  smaato-ios-sdk: cb9939713a4906a7901730aaa531b4004912c95d
+  UnityAds: df29459d94ca7c0676cdd9ba96ef6420670ffbfa
+  VungleAds: d7cf66a6dfd390a583ea2b2cfb9af1043b686e58
+
+PODFILE CHECKSUM: 698a2e8f04809f7d67826bf821884e8c7218f51b
+
+COCOAPODS: 1.14.2
